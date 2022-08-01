@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tugas5</string>
+    <string name="listview_negara">ListView Negara</string>
+    <string name="kalkulator_sederhana">Kalkulator Sederhana</string>
+    <string name="input_nama">Input nama</string>
+    <string name="cetak_hasil">Cetak Hasil !</string>
+    <string name="masukan_namamu">Masukan Namamu</string>
+    <string name="xebec">Xebec</string>
+    <string name="masukan_angka_pertama">Masukan Angka Pertama</string>
+    <string name="masukan_angka_kedua">masukan angka kedua</string>
+    <string name="sama">=</string>
+    <string name="x">X</string>
+    <string name="bagi">/</string>
+    <string name="tambah">+</string>
+    <string name="hasilnya_adalah">Hasilnya Adalah</string>
+</resources>
