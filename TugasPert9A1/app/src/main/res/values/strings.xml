@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TugasPert9A1</string>
+    <string name="todo">TODO</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="password">Password</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="login">Login !</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="namalengkap">NamaLengkap</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukan_alamat_tinggal">masukan alamat tinggal</string>
+    <string name="simpan">Simpan !</string>
+    <string name="halaman_log_out">Halaman Log Out</string>
+</resources>
