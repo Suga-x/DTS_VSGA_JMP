@@ -10,3 +10,9 @@ Di Repository ini akan berisi kumpulan project untuk kebutuhan program DTS
   - Aplikasi Input nama
   - Kalkulator Sederhana
   - ListView Negara
+  
+  
+-⚡**Tugas 7**
+  - Login page sederhana & ListView 
+  - **Username** : AgusRs_jmp
+  - **Password** : 123345
